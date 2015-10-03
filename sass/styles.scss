@@ -1,0 +1,8 @@
+@import "partials/_clearfix";
+// @import "partials/_settings";     // settings must be before all JS files, which are linked to by "foundation"
+// @import "foundation";
+
+.content {
+  display: none;
+  padding: 8px;
+}

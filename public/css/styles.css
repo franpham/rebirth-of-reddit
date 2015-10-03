@@ -1,0 +1,19 @@
+/* line 2, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table; }
+
+/* line 7, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+.clearfix:after {
+  clear: both; }
+
+/* line 11, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+.clearfix {
+  zoom: 1;
+  /* ie 6/7 */ }
+
+/* line 5, stdin */
+.content {
+  display: none;
+  padding: 8px; }
