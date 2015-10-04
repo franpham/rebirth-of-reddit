@@ -1,14 +1,14 @@
-/* line 2, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+/* line 2, /Users/franpham/DevLeague/rebirth-of-reddit/sass/partials/_clearfix.scss */
 .clearfix:before,
 .clearfix:after {
   content: "";
   display: table; }
 
-/* line 7, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+/* line 7, /Users/franpham/DevLeague/rebirth-of-reddit/sass/partials/_clearfix.scss */
 .clearfix:after {
   clear: both; }
 
-/* line 11, /Users/franpham/DevLeague/reddit_clone/sass/partials/_clearfix.scss */
+/* line 11, /Users/franpham/DevLeague/rebirth-of-reddit/sass/partials/_clearfix.scss */
 .clearfix {
   zoom: 1;
   /* ie 6/7 */ }
